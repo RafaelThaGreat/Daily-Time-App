@@ -1,0 +1,33 @@
+#box {
+  text-align: center;
+}
+
+#tod {
+  font-size: 144px;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#time {
+  font-size: 100px;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#weather {
+  font-size: 85px;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+  background: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#fff),
+      to(#bdf3fe)
+    )
+    fixed;
+}
